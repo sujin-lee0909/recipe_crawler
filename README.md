@@ -20,4 +20,4 @@ Category number is in site url, after click category page.
 
 Sometimes, this program can print 'error : ~'.
 You can ignore it, because some recipes have different html and I didn't need it.
-If you want to crawl more pages, refer code and find comment in line 31.
+If you want to crawl more pages or get more information, refer code and find comment.
